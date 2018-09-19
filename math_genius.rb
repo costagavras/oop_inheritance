@@ -14,7 +14,6 @@ class Polymath < Multilinguist
     puts self.say_in_local_language("The total is #{arr.sum}")
   end
 
-
 end
 
 bernard = Polymath.new
